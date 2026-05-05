@@ -1,0 +1,3 @@
+[submodule "Pokestore-back"]
+	path = Pokestore-back
+	url = https://github.com/canosa92/Pokestore-Back.git
