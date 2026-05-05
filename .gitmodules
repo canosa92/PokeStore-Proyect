@@ -2,3 +2,6 @@
 [submodule "Back-PokeStore"]
 	path = Back-PokeStore
 	url = https://github.com/canosa92/Pokestore-Back.git
+[submodule "Front-PokeStore"]
+	path = Front-PokeStore
+	url = https://github.com/canosa92/Pokestore-Front.git
