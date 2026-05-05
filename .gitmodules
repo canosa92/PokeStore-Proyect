@@ -1,6 +1,7 @@
-[submodule "Pokestore-Back"]
-	path = Pokestore-Back
+
+[submodule "Back-PokeStore"]
+	path = Back-PokeStore
 	url = https://github.com/canosa92/Pokestore-Back.git
-[submodule "PokeStore-Front"]
-	path = PokeStore-Front
-	url = https://github.com/canosa92/PokeStore-Front.git
+[submodule "Front-PokeStore"]
+	path = Front-PokeStore
+	url = https://github.com/canosa92/Pokestore-Front.git
