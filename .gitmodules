@@ -1,0 +1,6 @@
+[submodule "project/Pokestore-Back"]
+	path = project/Pokestore-Back
+	url = https://github.com/canosa92/Pokestore-Back.git
+[submodule "Pokerstore/Pokestore-Back"]
+	path = Pokerstore/Pokestore-Back
+	url = https://github.com/canosa92/Pokestore-Back.git
